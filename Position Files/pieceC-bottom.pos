@@ -1,0 +1,21 @@
+### Footprint positions - created on 2025-08-07T09:49:16-0700 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val               Package                 PosX       PosY       Rot  Side
+C1        22uF              CAPC3216X180N        63.5081   -86.9603  -18.0000  bottom
+C2        10uF              CAPC2012X152N        62.0281   -89.6949  -18.0000  bottom
+C3        22uF              CAPC3216X180N        76.0053   -90.8364  -18.0000  bottom
+C4        10uF              CAPC2012X152N        74.5477   -93.5407  -18.0000  bottom
+J2        TC2030-IDC-NL     TAG_TC2030-IDC-NL    58.1288  -109.2998  -18.0000  bottom
+R1        500               RESC1608X55N         79.1285   -95.3268  -18.0000  bottom
+R2        1400              RESC1005X40N         79.3451   -93.1607  -18.0000  bottom
+R3        500               RESC1608X55N         66.6825   -91.5168  -18.0000  bottom
+R4        800               RESC3116X65N         68.5011   -88.5805  -18.0000  bottom
+R5        430               RES_ERJ-2GEJ431X     57.8823   -88.9958  -18.0000  bottom
+U1        ~                 SOT229P700X180-4N    62.7811   -96.8185  -18.0000  bottom
+U2        ~                 SOT229P700X180-4N    75.2236  -100.8224  -18.0000  bottom
+U3        SN74LV1T34DBVRG4  SOT95P280X145-5N     56.9104   -85.1957  -18.0000  bottom
+U4        ESP32-WROOM-32E   ESP32-WROOM-32D      44.7569   -97.7695  -18.0000  bottom
+U5        XT30UPB-M         XT30UPB-M            59.9286  -103.3675  162.0000  bottom
+## End
