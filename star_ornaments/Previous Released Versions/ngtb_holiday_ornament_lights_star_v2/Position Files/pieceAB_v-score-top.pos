@@ -1,0 +1,56 @@
+### Footprint positions - created on 2025-08-07T09:48:28-0700 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                 PosX       PosY       Rot  Side
+C1        15pF      CAPC1005X55N        336.6485  -160.1492  180.0000  top
+C2        15pF      CAPC1005X55N        315.5573  -160.1474  180.0000  top
+C3        15pF      CAPC1005X55N        294.4661  -160.1474  180.0000  top
+C4        15pF      CAPC1005X55N        273.3748  -160.1474  180.0000  top
+C5        15pF      CAPC1005X55N        252.2836  -160.1474  180.0000  top
+C6        15pF      CAPC1005X55N        231.1923  -160.1474  180.0000  top
+C7        15pF      CAPC1005X55N        210.1011  -160.1474  180.0000  top
+C8        15pF      CAPC1005X55N        189.0099  -160.1474  180.0000  top
+C9        15pF      CAPC1005X55N        167.9186  -160.1474  180.0000  top
+C10       15pF      CAPC1005X55N        146.8274  -160.1474  180.0000  top
+C11       15pF      CAPC1005X55N        125.7362  -160.1746  180.0000  top
+C12       15pF      CAPC1005X55N        104.6449  -160.1474  180.0000  top
+C13       15pF      CAPC1005X55N        109.1026  -132.6306    0.0000  top
+C14       15pF      CAPC1005X55N        130.1939  -132.6324    0.0000  top
+C15       15pF      CAPC1005X55N        151.2851  -132.6324    0.0000  top
+C16       15pF      CAPC1005X55N        172.3763  -132.6324    0.0000  top
+C17       15pF      CAPC1005X55N        193.4676  -132.6324    0.0000  top
+C18       15pF      CAPC1005X55N        214.5588  -132.6324    0.0000  top
+C19       15pF      CAPC1005X55N        235.6500  -132.6324    0.0000  top
+C20       15pF      CAPC1005X55N        256.7413  -132.6324    0.0000  top
+C21       15pF      CAPC1005X55N        277.8325  -132.6324    0.0000  top
+C22       15pF      CAPC1005X55N        298.9238  -132.6324    0.0000  top
+C23       15pF      CAPC1005X55N        320.0150  -132.6052    0.0000  top
+C24       15pF      CAPC1005X55N        341.1062  -132.6324    0.0000  top
+R1        R         RESC1608X55N         98.0723  -153.7992    0.0000  top
+R2        R         RESC1608X55N         98.9105  -158.7776    0.0000  top
+U1        ~         LED-TRICOLOR-5050   336.6849  -152.1482  180.0000  top
+U2        ~         LED-TRICOLOR-5050   315.5898  -152.1482  180.0000  top
+U3        ~         LED-TRICOLOR-5050   294.4946  -152.1446  180.0000  top
+U4        ~         LED-TRICOLOR-5050   273.3995  -151.6871  180.0000  top
+U5        ~         LED-TRICOLOR-5050   252.3043  -152.1446  180.0000  top
+U6        ~         LED-TRICOLOR-5050   231.2092  -152.1446  180.0000  top
+U7        ~         LED-TRICOLOR-5050   210.1140  -152.1446  180.0000  top
+U8        ~         LED-TRICOLOR-5050   189.0189  -151.9349  180.0000  top
+U9        ~         LED-TRICOLOR-5050   167.9237  -152.1446  180.0000  top
+U10       ~         LED-TRICOLOR-5050   146.8285  -152.1446  180.0000  top
+U11       ~         LED-TRICOLOR-5050   125.7334  -152.1464  180.0000  top
+U12       ~         LED-TRICOLOR-5050   104.6382  -152.1446  180.0000  top
+U13       ~         LED-TRICOLOR-5050   109.0662  -140.6316    0.0000  top
+U14       ~         LED-TRICOLOR-5050   130.1614  -140.6316    0.0000  top
+U15       ~         LED-TRICOLOR-5050   151.2565  -140.6352    0.0000  top
+U16       ~         LED-TRICOLOR-5050   172.3517  -141.0928    0.0000  top
+U17       ~         LED-TRICOLOR-5050   193.4468  -140.6352    0.0000  top
+U18       ~         LED-TRICOLOR-5050   214.5420  -140.6352    0.0000  top
+U19       ~         LED-TRICOLOR-5050   235.6372  -140.6352    0.0000  top
+U20       ~         LED-TRICOLOR-5050   256.7323  -140.8450    0.0000  top
+U21       ~         LED-TRICOLOR-5050   277.8275  -140.6352    0.0000  top
+U22       ~         LED-TRICOLOR-5050   298.9226  -140.6352    0.0000  top
+U23       ~         LED-TRICOLOR-5050   320.0178  -140.6334    0.0000  top
+U24       ~         LED-TRICOLOR-5050   341.1129  -140.6352    0.0000  top
+## End
